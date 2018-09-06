@@ -28,6 +28,7 @@
 - git:
     uri: 'https://github.com/ros-industrial/ros_canopen'
     local-name: ros_canopen
+    version: kinetic-devel
 - git:
     uri: 'https://github.com/ros-industrial/staubli'
     local-name: staubli
